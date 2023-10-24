@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pagina{
+    width: 500px;
+    border: solid 2px red;
+
+}
+.menu{
+    height: 100px;
+    background-color: rgb(91, 207, 228);
+}
+.pagina .barra-lateral{
+    width: 65px;
+    height: 300px;
+    background-color: rgba(224, 179, 198, 0.459);
+    float: left;
+}
+.pagina .contenido{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(238, 213, 175, 0.281);
+    float: left;
+}
+.pagina .pie{
+    clear: both;
+    height: 200px;
+    background-color: rgba(187, 232, 235, 0.726);
+}

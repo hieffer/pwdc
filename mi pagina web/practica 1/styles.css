@@ -1,0 +1,45 @@
+h1{
+    color: rgb(245, 240, 240);
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: aqua;
+}
+ol li{
+    color: rgb(212, 21, 117);
+}
+ul li{
+    color: rgb(34, 206, 18);
+}
+p{
+    color: aqua;
+}
+header{
+color: rgb(61, 24, 197); 
+background-color: rgb(184, 173, 173); 
+font-family: Arial; 
+font-size: 12px; 
+margin: 12px; 
+padding: 12px;
+Border: 5px solid rgb(194, 31, 31); 
+}
+
+main{
+    padding: 20px;
+    border: 10px;
+    background-color: blue;
+    margin: 20px;
+}
+footer{
+    padding: 20px;
+    border: 10px;
+    margin: 20px;
+    background-color: blueviolet;
+
+}
+img{
+    width: 1400px;
+    height: 200px;
+}

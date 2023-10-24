@@ -1,0 +1,21 @@
+h1{
+    padding: 50px;
+    margin: 50px;
+    border: solid black;
+}
+div
+{
+    padding: 10px 5px 15px 3px;
+}
+h1,
+p,
+div
+{
+background-color: aliceblue;
+}
+em,
+strong,
+span
+{
+background-color: aqua;
+}
